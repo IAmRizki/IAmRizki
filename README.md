@@ -1,6 +1,9 @@
 <h1 align="center">Hai 👋 , saya Rizki</h1><h3 align="center">Programmer and CyberSecurity enthusiast</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrizki&label=Profile%20views&color=0e75b6&style=flat" alt="iamrizki" /> </p>
 
 
+<a>Saya adalah individu yang penuh semangat dan berdedikasi dalam eksplorasi dunia teknologi. Keterampilan saya melibatkan berbagai bahasa pemrograman, termasuk HTML, CSS, JavaScript, Java, C++, dan Python. Selain itu, saya memiliki keahlian dalam manajemen database, khususnya dengan MySQL dan Oracle, dan saya menggunakan PHP untuk mengkoneksikan dan berinteraksi dengan database.
+
+Minat saya yang ingin mendalami cyber security mencerminkan hasrat saya untuk terlibat dalam melindungi dunia digital. Saya aktif belajar dan mengembangkan keterampilan keamanan siber dengan tujuan memberikan kontribusi dalam menghadapi tantangan keamanan teknologi.</a>
 
 
 - 📫 Cara menghubungi saya **rizkiberkah333@gmail.com**
