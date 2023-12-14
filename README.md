@@ -3,7 +3,8 @@
 
 
 
-- Cara menghubungi saya **rizkiberkah333@gmail.com**- 📫 ⚡ Fakta menyenangkan **Saya suka Kopi **
+- 📫Cara menghubungi saya **rizkiberkah333@gmail.com**
+- ⚡ Fakta menyenangkan **Saya suka Kopi **
 
 
 
