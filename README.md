@@ -1,9 +1,9 @@
-<h1 align="center">Hai 👋 , saya Rizki</h1><h3 align="center">seorang programmer dan penggemar keamanan siber</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrizki&label=Profile%20views&color=0e75b6&style=flat" alt="iamrizki" /> </p>
+<h1 align="center">Hai 👋 , saya Rizki</h1><h3 align="center">Programmer and CyberSecurity enthusiast</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrizki&label=Profile%20views&color=0e75b6&style=flat" alt="iamrizki" /> </p>
 
 
 
 
-- 📫Cara menghubungi saya **rizkiberkah333@gmail.com**
+- 📫 Cara menghubungi saya **rizkiberkah333@gmail.com**
 - ⚡ Fakta menyenangkan **Saya suka Kopi **
 
 
