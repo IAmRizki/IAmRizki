@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Gambar.png" />
+</p>
 <h1 align="center">Hi there, I'm Rizki Berkah Saputra 👋</h1>
 <h3 align="center">Aspiring Cyber Security & Network Engineer Enthusiast | Passionate about Securing and Optimizing Networks</h3>
 
