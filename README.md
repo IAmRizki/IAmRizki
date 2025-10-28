@@ -60,7 +60,7 @@ I’m passionate about **network security**, **SDN (Software Defined Networking)
 <p align="center">
   <a href="https://www.linkedin.com/in/rizkiberkahsaputra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rizki%20Berkah%20Saputra-blue?logo=linkedin&style=flat-square" /></a>
   <a href="mailto:rizkiberkahsaputra@gmail.com"><img src="https://img.shields.io/badge/Email-rizkiberkahsaputra%40gmail.com-red?logo=gmail&style=flat-square" /></a>
-  <a href="https://github.com/rizkiberkah"><img src="https://img.shields.io/badge/GitHub-rizkiberkah-black?logo=github&style=flat-square" /></a>
+  <a href="https://github.com/IAmRizki"><img src="https://img.shields.io/badge/GitHub-IAmRizki-black?logo=github&style=flat-square" /></a>
 </p>
 
 ---
