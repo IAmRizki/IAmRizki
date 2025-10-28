@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gambar.png" alt="Rizki Berkah Saputra Banner" width="100%">
+  <img src="Banner.png" alt="Rizki Berkah Saputra Banner" width="100%">
 </p>
 <h1 align="center">Hi there, I'm Rizki Berkah Saputra 👋</h1>
 <h3 align="center">Aspiring Cyber Security & Network Engineer Enthusiast | Passionate about Securing and Optimizing Networks</h3>
