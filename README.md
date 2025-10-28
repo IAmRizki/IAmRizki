@@ -1,26 +1,65 @@
-<h1 align="center">Hai 👋 , saya Rizki</h1><h3 align="center">Programmer and CyberSecurity enthusiast</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrizki&label=Profile%20views&color=0e75b6&style=flat" alt="iamrizki" /> </p>
+<h1 align="center">Hi there, I'm Rizki Berkah Saputra 👋</h1>
+<h3 align="center">Aspiring Cyber Security & Network Engineer Enthusiast | Passionate about Securing and Optimizing Networks</h3>
 
+---
 
-<a>Saya adalah individu yang penuh semangat dan berdedikasi dalam eksplorasi dunia teknologi. Keterampilan saya melibatkan berbagai bahasa pemrograman, termasuk HTML, CSS, JavaScript, Java, C++, dan Python. Selain itu, saya memiliki keahlian dalam manajemen database, khususnya dengan MySQL dan Oracle, dan saya menggunakan PHP untuk mengkoneksikan dan berinteraksi dengan database.
+### 👨‍💻 About Me
+I'm an aspiring **Cyber Security and Network Engineer** with a background in **Informatics Engineering** from *Universitas Pelita*.  
+I’m passionate about **network security**, **SDN (Software Defined Networking)**, and **cyber threat detection** — especially in developing intelligent and adaptive security systems.  
 
-Minat saya yang ingin mendalami cyber security mencerminkan hasrat saya untuk terlibat dalam melindungi dunia digital. Saya aktif belajar dan mengembangkan keterampilan keamanan siber dengan tujuan memberikan kontribusi dalam menghadapi tantangan keamanan teknologi.</a>
+💡 I love exploring how **machine learning** can enhance **firewall automation and DDoS detection**, and I enjoy experimenting with tools like **Mininet**, **Ryu Controller**, and **Wireshark** for simulation and analysis.
 
+- 🔭 Currently working on: *Dynamic Firewall for DDoS Detection using SDN and Machine Learning*
+- 🌱 Currently learning: *Penetration Testing, Network Forensics, and Advanced Python Scripting*
+- 💬 Ask me about: *SDN Security, Network Automation, and Intrusion Detection Systems*
+- 🎯 Goal: To become a **Cyber Security Specialist** who builds secure and efficient network infrastructures
+- ⚡ Fun fact: I enjoy solving problems that involve both logic and creativity — and sometimes I break things just to secure them better 😄
 
-- 📫 Cara menghubungi saya **rizkiberkah333@gmail.com**
-- ⚡ Fakta menyenangkan **Saya suka Kopi **
+---
 
+### 🧠 Skills & Tools
 
+**Programming & Scripting**
+> Python • Bash • SQL • Scapy • Wireshark • Nmap
 
-<h3 align="left">Connect with me:</h3><p align="left"><a href="https://linkedin.com/in/rizki berkah saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizki berkah saputra" height="30" width="40" /></a>
+**Networking & Security**
+> SDN (Ryu Controller, Mininet) • Firewall Configuration • Packet Analysis • DDoS Mitigation • Intrusion Detection
 
+**Machine Learning & Data**
+> Scikit-learn • Pandas • RandomForestClassifier • Network Traffic Analysis
 
-<a href="https://fb.com/rizki berkah saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizki berkah saputra" height="30" width="40" /></a>
-<a href="https://instagram.com/_rizkiberkah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rizkiberkah" height="30" width="40" /></a></p><h3 align="left">Bahasa dan Alat:</h3><p align="left">
+**Version Control & Collaboration**
+> Git • GitHub • Linux (Ubuntu) • Docker (basic)
 
+---
 
+### 📊 GitHub Stats
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkiberkah&show_icons=true&theme=tokyonight" alt="Rizki's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiberkah&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrizki&show_icons=true&locale=en&layout=compact" alt="iamrizki" /></p><p>
+---
 
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrizki&show_icons=true&locale=en" alt="iamrizki" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrizki&" alt="iamrizki" /></p>
+### 🧩 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**Dynamic Firewall SDN**](https://github.com/rizkiberkah/Dynamic-Firewall-SDN) | Intelligent firewall system to detect and mitigate DDoS attacks in real-time using SDN and machine learning. | Python, Ryu, Mininet, Wireshark |
+| [**DDoS Detection System**](https://github.com/rizkiberkah/DDoS-Detection-System) | Network traffic classifier using RandomForest to detect malicious traffic flows. | Python, Scikit-learn, SDN |
+| [**Network Monitoring Dashboard**](https://github.com/rizkiberkah/Network-Monitoring-Dashboard) | Real-time monitoring dashboard for SDN environments. | Python, Flask, REST API |
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rizkiberkahsaputra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rizki%20Berkah%20Saputra-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="mailto:rizkiberkahsaputra@gmail.com"><img src="https://img.shields.io/badge/Email-rizkiberkahsaputra%40gmail.com-red?logo=gmail&style=flat-square" /></a>
+  <a href="https://github.com/rizkiberkah"><img src="https://img.shields.io/badge/GitHub-rizkiberkah-black?logo=github&style=flat-square" /></a>
+</p>
+
+---
+
+⭐ *“Security is not a product, but a process.” – Bruce Schneier*
